@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FFFF&center=true&width=700&lines=Loading+Profile..." alt="Loading Typing SVG" />
-</p>
 
 # < Welcome />! 👋
 
