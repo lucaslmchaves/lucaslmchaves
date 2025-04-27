@@ -76,12 +76,6 @@
 
 ---
 
-## 🐍 GitHub Contributions Snake:
-
-<div align="center">
-  <img src="https://img.shields.io/badge/🐍%20Snake%20Contributions%20Active-00FFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a23" alt="Snake Badge" />
-</div>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/lucaslmchaves/lucaslmchaves/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
