@@ -2,8 +2,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # Roda a cada 6 horas (0h, 6h, 12h, 18h UTC)
-  workflow_dispatch:        # Permite rodar manualmente também
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -15,6 +15,9 @@ jobs:
           github_user_name: lucaslmchaves
           outputs: |
             dist/github-contribution-grid-snake.svg
+          theme: dark
+          color_snake: #00FFFF   # Cor da cobrinha (neon azul)
+          color_dots: #21262d, #30363d, #00FFFF, #39FF14, #0FF0FC # Cores dos quadrados (gradiente vibrante)
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
