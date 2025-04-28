@@ -1,4 +1,4 @@
-# <p align="center"> < Welcome />! 👋 </p>
+# <p align="center">< Welcome />! 👋</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/lang-pt--br-blue" alt="Language" />
@@ -14,20 +14,20 @@
 
 ---
 
-## <p align="center">📢 Let's Connect:</p>
+<h3 align="center">📢 Let's Connect:</h3>
 
-<p align="center">
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00A8E8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucaslmchaves)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaslmchaves@gmail.com)
 
-</p>
+</div>
 
 ---
 
-## <p align="center">💻 Languages and Tools:</p>
+<h3 align="center">💻 Languages and Tools:</h3>
 
-<p align="center">
+<div align="center">
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -47,30 +47,30 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-</p>
+</div>
 
 ---
 
-## <p align="center">📊 GitHub Stats:</p>
+<h3 align="center">📊 GitHub Stats:</h3>
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=lucaslmchaves&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslmchaves&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/lucaslmchaves/lucaslmchaves/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/lucaslmchaves?tab=repositories">
     <img src="https://img.shields.io/badge/⭐-Favorite%20my%20repositories-0a0a23?style=for-the-badge&logo=github&logoColor=white" alt="Favorite Repositories" />
   </a>
-</p>
+</div>
