@@ -1,4 +1,4 @@
-# <p align="center">< Welcome />! 👋</p>
+# <p align="center">< Welcome />! 
 
 <p align="center">
   <img src="https://img.shields.io/badge/lang-pt--br-blue" alt="Language" />
